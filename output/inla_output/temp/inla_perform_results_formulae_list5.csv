@@ -1,0 +1,5 @@
+"formula","mse","rse","cor_coef","mse_glm","rse_glm","cor_coef_glm"
+"response ~ 1 + age_1524_pop:zone + assets_fn12:zone + assets_fn8:zone",9.94646459217209e-06,0.738887064152965,0.547076616121078,"9.79570763878444e-06","0.727687872555087","0.57105864880637"
+"response ~ 1 + age_0004_pop:zone + age_1524_pop:zone + assets_fn12:zone",9.95042504755433e-06,0.739181272132391,0.546882071852411,"1.00595943362073e-05","0.747291065762173","0.561765545365532"
+"response ~ 1 + zone + high_hiv + assets_fn13 + assets_fn12 + assets_fn12:zone + assets_fn1 + assets_fn1:high_hiv",1.00480771213543e-05,0.746435493313183,0.520266966993151,"9.3190403685965e-06","0.692277976246387","0.569009954978107"
+"response ~ 1 + zone + high_hiv + assets_fn12 + assets_fn12:zone + assets_fn1 + assets_fn1:high_hiv + assets_fn13 + assets_fn13:high_hiv",1.06250327273123e-05,0.789295449218355,0.486571483997144,"9.8947121137149e-06","0.735042558749512","0.541583987928003"
